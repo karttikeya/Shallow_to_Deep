@@ -4,5 +4,5 @@ This repository contains the code for the paper `Do deep neural networks learn s
 The paper will be presented as a ORAL at the [Deep Learning Phenomenon Workshop](http://deep-phenomena.org/) at [ICML 2019](https://icml.cc/).
 
 
-The code will be up by *Sunday, June 16*. Stay Tuned! 
+The code will be up by *Sunday, June 31*. Stay Tuned! 
 Full paper is available at this [Google Drive Link](https://drive.google.com/open?id=150VZUEFmv2hwMLk7ZT4szdyznp6h7FNf) .
